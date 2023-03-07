@@ -1,0 +1,35 @@
+PHP Exercise
+
+Create a small carting system
+1. Use any template
+2. Registration and login form should be there (submission using ajax)
+3. Home page 
+    a. Should have the latest product listing category wise (Shirt, T-Shirt, Jeans etc..)
+    b. Also display the most visited product in the home page.
+    c. If a user clicks on a product it should display in a popup with brief description, and view more button which redirect in product detail page
+4. Shop page - 
+    a. display product listing with category 
+    b. Add category dropdown
+5. Product Detail page
+    a. Show product listing in proper manner. If product quantity = 0, Show Out of stock else show In stock with Add to Cart button.
+    b. Buy now button to directly buy products.
+    c. Add to cart button : On click of Add to cart button, Add items in cart and in Show Total Cart counter at top of the page. Counter should increase as I add products in the cart.
+6. On click of Total Cart , Redirect to cart listing and show cart listing products and show total amount of price of all products at bottom.
+7. Checkout page : 
+    a. Shipping address fields
+    b. Payment method : COD
+    c. After successful checkout redirect to thank you page
+8. Admin Dashboard 
+    a. Admin login
+    b. Customer management (add, delete, update customer details)
+    c. Product (add, delete, update products)
+    d. Manage stocks of products
+
+
+Note.
+1. Give necessary jquery and php validations for required input fields.
+2. Avoid input of any special characters.
+3. Coding standards should be followed properly.
+4. File structure and code structure should be in proper manner.
+5. The output should be neat and user friendly.
+
